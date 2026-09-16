@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "campus-opinion-board-db",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "c8b58e20-601e-4596-940f-b2b2ff2665af",
       "migrations_dir": "migrations"
     }
   ],
